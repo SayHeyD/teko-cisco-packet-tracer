@@ -33,7 +33,7 @@ If required the password for all devices always is: `1234`
 
 ### Exercise
 
-[Packet tracer file download](./layer_2_vlan_network.pkt)
+[Packet tracer file download](https://github.com/SayHeyD/teko-cisco-packet-tracer/raw/refs/heads/main/exercises/layer_2_vlan_network/layer_2_vlan_network.pkt)
 
 ```
                     PC02 (192.168.10.120/24)
